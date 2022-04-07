@@ -1,0 +1,78 @@
+
+/*to make center*/
+.centers {
+    text-align: center;
+    margin: 35px;
+    padding: 35px
+}
+/*for table 1*/
+table, th, td {
+    border: 1px solid black;
+    align-items:center;
+    margin: 35px;
+    padding: 35px
+}
+/*for table 2*/
+.news td {
+    border-style: none;
+    align-items: center;
+    width: 50%;
+    margin: 35px;
+    padding: 35px
+}
+/*for background1 1*/
+.back {
+    background: linear-gradient(to bottom, #ff80dc 0%,white 100%); 
+}
+/*for background1 2*/
+.back2 {
+    background-image: url("background-image.png");
+}
+/*change font 1*/
+.font1 {
+    font-family: "Times New Roman", Times, serif;
+}
+/*change font 2*/
+.font2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*change font 3*/
+.font3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+/*change postion of frist section Your job*/
+.absolute1 {
+    position: absolute;
+    top: 20px;
+    left: 200px;
+    width: 200px;
+    height: 100px;
+    padding: 35px;
+    margin: 35px;
+}
+/*change postion of secound section */
+.absolute2 {
+    position: absolute;
+    top: 80px;
+    left: 200px;
+    width: 200px;
+    height: 100px;
+    padding: 35px ;
+    margin: 35px;
+}
+/* for boutton1  */
+.colors {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+    /* Dotted border */
+     .new3{
+    border-top: 3px dotted green;
+}
+
